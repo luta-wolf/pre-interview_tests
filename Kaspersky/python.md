@@ -1,6 +1,6 @@
 <img width="1595" alt="image" src="https://user-images.githubusercontent.com/58044383/230071636-bfe35f62-a95c-4aab-af6c-c5f9708ea07a.png">
 <img width="1383" alt="image" src="https://user-images.githubusercontent.com/58044383/230071735-345e03de-5d90-4310-9c23-704e1e9c7fb4.png">
-<!-- <img width="1589" alt="image" src="https://user-images.githubusercontent.com/58044383/230073082-b6d923e4-69bc-49b0-a8b9-0243f0cc8f85.png"> -->
+Python Тесты
 <img width="1127" alt="image" src="https://user-images.githubusercontent.com/58044383/230073484-c2b423de-0a76-4005-919c-d23649d7df09.png">
 1
 <img width="1467" alt="image" src="https://user-images.githubusercontent.com/58044383/230071812-1dde5860-ee96-4f19-a4ea-836263a77b9a.png">
@@ -44,6 +44,7 @@
 <img width="779" alt="image" src="https://user-images.githubusercontent.com/58044383/230072950-212fef3b-c04b-488b-a6d5-e6a2482e2ad9.png">
 20
 <img width="738" alt="image" src="https://user-images.githubusercontent.com/58044383/230072988-f3e70e0a-ba38-4927-b242-a5b01ff9c2ea.png">
+Python Задачи
 <img width="1165" alt="image" src="https://user-images.githubusercontent.com/58044383/230073413-5d7f4851-324f-4b08-ba2f-1e5f1ffe08e3.png">
 1
 <img width="1343" alt="image" src="https://user-images.githubusercontent.com/58044383/230073197-ce4f3180-7327-40bb-a758-d57d5b9d111e.png">
