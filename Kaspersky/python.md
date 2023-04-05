@@ -1,6 +1,7 @@
-<img width="1595" alt="image" src="https://user-images.githubusercontent.com/58044383/230071636-bfe35f62-a95c-4aab-af6c-c5f9708ea07a.png">
+## 1. Python Тесты
+
 <img width="1383" alt="image" src="https://user-images.githubusercontent.com/58044383/230071735-345e03de-5d90-4310-9c23-704e1e9c7fb4.png">
-Python Тесты
+
 <img width="1127" alt="image" src="https://user-images.githubusercontent.com/58044383/230073484-c2b423de-0a76-4005-919c-d23649d7df09.png">
 1
 <img width="1467" alt="image" src="https://user-images.githubusercontent.com/58044383/230071812-1dde5860-ee96-4f19-a4ea-836263a77b9a.png">
