@@ -114,7 +114,7 @@ class printer():
 	def __del__(self):
 		print('printer is off')
 
-# printer.work()
+# printer.work() #TypeError: printer.work() missing 1 required positional argument: 'self'
 
 print('-' * 20)
 # ----------------------------------------------------
@@ -210,7 +210,7 @@ print(int(tri.area()))
 # from pathlib import Path
 # Path('result.txt').touch()
 
-import os
+# import os
 # os.mknod('result.txt') #PermissionError: [Errno 1] Operation not permitted
 
 # ----------------------------------------------------
