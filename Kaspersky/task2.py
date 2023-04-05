@@ -10,6 +10,7 @@ string4 = '())()(()())(()'
 def check_brackets(s):
     stack = []
     for c in s:
+        # print(*stack)
         if c in '([{':
             stack.append(c)
         elif c in ')]}':
@@ -23,7 +24,27 @@ def check_brackets(s):
                 return "Bruh"
     return "Nice" if not stack else "Bruh"
 
-print(check_brackets(string))
+# print(check_brackets(string))
 print(check_brackets(string2))
-print(check_brackets(string3))
-print(check_brackets(string4))
+# print(check_brackets(string3))
+# print(check_brackets(string4))
+
+
+s = input()
+stack = []
+for c in s:
+    # print(*stack)
+    if c in '([{':
+        stack.append(c)
+    elif c in ')]}':
+        if not stack:
+            print("Bruh")
+            exit()
+        if c == ')' and stack[-1] == '(' or \
+           c == ']' and stack[-1] == '[' or \
+           c == '}' and stack[-1] == '{':
+            stack.pop()
+        else:
+            print("Bruh")
+            exit()
+print("Nice" if not stack else "Bruh")
