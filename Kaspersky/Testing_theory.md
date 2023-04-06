@@ -1,5 +1,6 @@
 ## 3. Теория тестирования
-<img width="1031" alt="image" src="https://user-images.githubusercontent.com/58044383/230500557-6d412b25-efc4-455e-9431-70fc51cb74b1.png">
+<img width="1035" alt="image" src="https://user-images.githubusercontent.com/58044383/230504497-dcd64bdd-8534-4c7c-b7d7-386647032209.png">
+<!-- <img width="1031" alt="image" src="https://user-images.githubusercontent.com/58044383/230500557-6d412b25-efc4-455e-9431-70fc51cb74b1.png"> -->
 <img width="1142" alt="image" src="https://user-images.githubusercontent.com/58044383/230500647-7409fa8b-c212-4577-bd0a-56a6c080064d.png">
 
 1
