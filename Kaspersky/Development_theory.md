@@ -42,4 +42,4 @@
 <img width="1151" alt="image" src="https://user-images.githubusercontent.com/58044383/230458513-b0f2efea-3bca-4123-8629-98e2eee2a3e9.png">
 20
 <img width="1150" alt="image" src="https://user-images.githubusercontent.com/58044383/230458744-82297a22-f6ea-4666-b94e-6be042b1d4cb.png">
-<img width="1148" alt="image" src="https://user-images.githubusercontent.com/58044383/230455933-ace9f45d-ba77-4a57-a557-5fe46f702ca8.png">
+
