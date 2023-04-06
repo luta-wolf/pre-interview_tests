@@ -45,7 +45,6 @@
 
 13
 <img width="1155" alt="image" src="https://user-images.githubusercontent.com/58044383/230153679-9d35a9f9-7e76-4617-82c9-bbacd168dbb4.png">
-<!-- <img width="945" alt="image" src="https://user-images.githubusercontent.com/58044383/230072632-1c70887c-13ed-4f18-95b9-6f70713b806c.png"> -->
 
 14
 <img width="1155" alt="image" src="https://user-images.githubusercontent.com/58044383/230153884-5126c8bb-e6db-4547-b816-a99e072b08fa.png">
@@ -70,7 +69,8 @@
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/58044383/230157390-577ac123-f3ee-4f63-8940-1efc1fab264c.png">
 
 ## 18. Python Задачи
-<img width="1165" alt="image" src="https://user-images.githubusercontent.com/58044383/230073413-5d7f4851-324f-4b08-ba2f-1e5f1ffe08e3.png">
+<!-- <img width="1165" alt="image" src="https://user-images.githubusercontent.com/58044383/230073413-5d7f4851-324f-4b08-ba2f-1e5f1ffe08e3.png"> -->
+<img width="1030" alt="image" src="https://user-images.githubusercontent.com/58044383/230464494-fd0323db-6a0c-46eb-aedd-f3870ef552a5.png">
 1
 <img width="1343" alt="image" src="https://user-images.githubusercontent.com/58044383/230073197-ce4f3180-7327-40bb-a758-d57d5b9d111e.png">
 <img width="977" alt="image" src="https://user-images.githubusercontent.com/58044383/230073245-91ebe7ae-f528-42e4-8a93-f5c6725a6eac.png">
