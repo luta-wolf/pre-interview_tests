@@ -69,7 +69,6 @@
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/58044383/230157390-577ac123-f3ee-4f63-8940-1efc1fab264c.png">
 
 ## 18. Python Задачи
-<!-- <img width="1165" alt="image" src="https://user-images.githubusercontent.com/58044383/230073413-5d7f4851-324f-4b08-ba2f-1e5f1ffe08e3.png"> -->
 <img width="1030" alt="image" src="https://user-images.githubusercontent.com/58044383/230464494-fd0323db-6a0c-46eb-aedd-f3870ef552a5.png">
 1
 <img width="1343" alt="image" src="https://user-images.githubusercontent.com/58044383/230073197-ce4f3180-7327-40bb-a758-d57d5b9d111e.png">
