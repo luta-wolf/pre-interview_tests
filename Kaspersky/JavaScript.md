@@ -1,5 +1,6 @@
 ## 26 JavaScript
-
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/58044383/231279427-e7547c54-12b9-4c76-888e-3fae301cb673.png">
+<img width="1022" alt="image" src="https://user-images.githubusercontent.com/58044383/231279487-f57f96b8-5a66-47e2-baee-c462300f3a69.png">
 1
 <img width="1034" alt="image" src="https://user-images.githubusercontent.com/58044383/231272489-5f74d103-0970-454e-a1eb-25cf7bdda1c3.png">
 2
