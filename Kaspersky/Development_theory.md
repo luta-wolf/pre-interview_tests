@@ -1,6 +1,6 @@
 ## 2. Теория разработки
 
-## 2. Теория разработки
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/58044383/231276580-e8583f91-0e83-42f9-a1d2-b69987f9062a.png">
 <img width="1013" alt="image" src="https://user-images.githubusercontent.com/58044383/230453326-cd2c1eb9-481e-4301-90bb-0a1bbd10de84.png">
 1
 <img width="1034" alt="image" src="https://user-images.githubusercontent.com/58044383/230453461-315dc9b0-7422-4cd4-86f2-083835116e97.png">

@@ -1,6 +1,6 @@
 ## 11. Linux
-
-<img width="937" alt="image" src="https://user-images.githubusercontent.com/58044383/231005566-8fd4455b-7653-4c0b-b365-7f5b0ff91cec.png">
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/58044383/231276236-1717732d-c763-494c-ba2a-10947c265bfa.png">
+<!-- <img width="937" alt="image" src="https://user-images.githubusercontent.com/58044383/231005566-8fd4455b-7653-4c0b-b365-7f5b0ff91cec.png"> -->
 <img width="1026" alt="image" src="https://user-images.githubusercontent.com/58044383/231005642-2130861a-159b-4bd0-a72d-39ea4649ad1b.png">
 1
 <img width="1045" alt="image" src="https://user-images.githubusercontent.com/58044383/231005718-3e0cc5ad-dc67-4527-89b9-1a5b4109ec46.png">
