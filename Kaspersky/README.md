@@ -1,4 +1,13 @@
-## 1. Инструкции по прохождению тестирования
+## 1. Регистрация
+- Регестрируемся по [реферальной ссылке](https://safeboard.kaspersky.ru/?utm_source=career_day&utm_medium=school21) от Школы 21.
+- Pаполняем анкету.В раздете `Образование` указываем `Школа 21 (Сбербанк)`.
+<img width="852" alt="image" src="https://user-images.githubusercontent.com/58044383/231324739-42c6b6b7-862f-4e20-a1bd-c9888ebef61d.png">
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/58044383/231323675-46557a17-26e1-4d0a-bbdf-abece4a20512.png">
+
+- При нажатии кнопки `Подать заявку`, Вас перенаправит на Степик, где нужно будет пройти тесты.
+<img width="1656" alt="image" src="https://user-images.githubusercontent.com/58044383/231324338-06ad9889-a0e6-4594-9944-b743c38a7a5a.png">
+
+## 2. Инструкции по прохождению тестирования
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/58044383/230148357-0e1bfa5d-6992-4179-9ba7-5b4b773146c7.png">
 <img width="1199" alt="image" src="https://user-images.githubusercontent.com/58044383/230148627-6c179396-6c39-41db-b281-3b1cf8257f6d.png">
 
