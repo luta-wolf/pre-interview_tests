@@ -1,5 +1,5 @@
 ## 5. Исследование угроз
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/58044383/231319228-c1064bda-b8d0-467a-97d0-8ce2c5c0cedc.png">
+<img width="1174" alt="image" src="https://user-images.githubusercontent.com/58044383/231325770-5fc49f97-3683-4330-b616-d41f6deef2c4.png">
 <img width="1015" alt="image" src="https://user-images.githubusercontent.com/58044383/231319263-f762c295-1892-48c5-a398-2993b8dc21ec.png">
 1
 <img width="1141" alt="image" src="https://user-images.githubusercontent.com/58044383/231319432-06795121-73a4-42ca-808c-80d3f2b4a4e1.png">
