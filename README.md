@@ -5,6 +5,7 @@
 - [Сбер для студентов](https://sbergraduate.ru/sberseasons-moscow/)
 - [Тинькофф](https://fintech.tinkoff.ru/)
 - [Яндекс](https://yandex.ru/yaintern/)
+- [Яндекс. Школа бэкенд-разработки](https://academy.yandex.ru/schools/backend)
 - [МТС](https://job.mts.ru/internship)
 - [Касперский](https://safeboard.kaspersky.ru/)
 - [Касперский для Школы21](https://safeboard.kaspersky.ru/?utm_source=career_day&utm_medium=school21)
