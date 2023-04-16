@@ -19,3 +19,9 @@
 - [MARS](https://careers.mars.com/ru/ru/mars-internship-experience-program#ph-ZLm8N)
 - [Стажировки в IT](https://changellenge.com/vacancy/filter/indystry-is-it/apply/)
 
+## Вопросы на собеседовании с лучшими ответами
+- [Tell Me About Yourself](https://www.youtube.com/watch?v=TQHW7gGjrCQ&ab_channel=TheCompaniesExpert)
+- [What are your Salary Expectations?](https://www.youtube.com/watch?v=WChxbBSlWnQ&ab_channel=TheCompaniesExpert)
+- [Why Should We Hire You?](https://www.youtube.com/watch?v=WQ6snVCCgt4&t=4s&ab_channel=TheCompaniesExpert)
+- [What is your Weakness?](https://www.youtube.com/watch?v=yzWo8EXsfTs&ab_channel=TheCompaniesExpert)
+- [Why Did you Leave your Last Job?](https://www.youtube.com/watch?v=ofTfvFcj5ok&ab_channel=TheCompaniesExpert)
