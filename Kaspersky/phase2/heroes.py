@@ -1,15 +1,16 @@
 def check_mission(heroes, mission) -> tuple:
-	set_man = set()
-	set_power = set()
-	for man, superpowers in heroes:
-		for i in superpowers:
-			set_power.add(i)
-			if i in mission:
-				set_man.add(man)
-		for i in mission:
-			if i not in set_power:
-				return ()
-	return tuple(set_man)
+	ability_list = []
+	hero_list = []
+	for hero in heroes:
+		hero_list.append(hero)
+		ability_list.extend(hero[1])
+
+	for stage in mission:
+		if stage not in ability_list or mission.count(stage) > ability_list.count(stage):
+			return ()
+
+	hero_list.sort(key=lambda x: x[1])
+	return tuple([i[0] for i in hero_list])
 
 
 heroes = (("Илья М.", (1, 2, 3)),)
@@ -21,11 +22,19 @@ mission2 = (1, 2)
 heroes3 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )), ("Добрыня Н.", (2, 3)))
 mission3 = (1, 1, 2)
 
-heroes4 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )),)
-mission4 = (1, 5)
+heroes4 = (("Добрыня Н.", (2, 3)), ("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )))
+mission4 = (1, 1, 2)
+
+heroes5 = (("Добрыня Н.", (2, 3)), ("Илья М.", (2,)), ("Алёша П.", (1, )))
+mission5 = (1, 1, 2)
+
+heroes6 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )),)
+mission6 = (1, 5)
 
 
 print(check_mission(heroes, mission))
 print(check_mission(heroes2, mission2))
 print(check_mission(heroes3, mission3))
 print(check_mission(heroes4, mission4))
+print(check_mission(heroes5, mission5))
+print(check_mission(heroes6, mission6))
