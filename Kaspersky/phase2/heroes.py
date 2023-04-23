@@ -12,16 +12,20 @@ def check_mission(heroes, mission) -> tuple:
 	return tuple(set_man)
 
 
-heroes = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )), ("Добрыня Н.", (2, 3)))
-mission = (1, 1, 2)
+heroes = (("Илья М.", (1, 2, 3)),)
+mission = (1,)
 
 heroes2 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )),)
-mission2 = (1, 5)
+mission2 = (1, 2)
 
-heroes3 = (("Илья М.", (1, 2, 3)),)
-mission3 = (1,)
+heroes3 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )), ("Добрыня Н.", (2, 3)))
+mission3 = (1, 1, 2)
+
+heroes4 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )),)
+mission4 = (1, 5)
 
 
 print(check_mission(heroes, mission))
 print(check_mission(heroes2, mission2))
 print(check_mission(heroes3, mission3))
+print(check_mission(heroes4, mission4))
