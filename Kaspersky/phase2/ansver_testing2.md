@@ -53,4 +53,3 @@ STEPS:
 | :-: | :----- | :-------: |
 | 1 | Obtain a valid IP address. | The IP address should be valid. |
 | 2 | Use the IP address to get the analysis report. | Successful response with HTTP status code 200 and the analysis report containing threat score and relevant context. |
-
