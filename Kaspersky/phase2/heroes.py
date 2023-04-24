@@ -31,6 +31,9 @@ mission5 = (1, 1, 2)
 heroes6 = (("Илья М.", (1, 2, 3)), ("Алёша П.", (1, )),)
 mission6 = (1, 5)
 
+heroes7 = (("Добрыня Н.", (1, 2, 3, 4)), ("Илья М.", (1, 2, 4)), ("Алёша П.", (1, 2, 4)), ("----- П.", (1, 2, 4)))
+mission7 = (1, 2, 3, 4)
+
 
 print(check_mission(heroes, mission))
 print(check_mission(heroes2, mission2))
@@ -38,3 +41,4 @@ print(check_mission(heroes3, mission3))
 print(check_mission(heroes4, mission4))
 print(check_mission(heroes5, mission5))
 print(check_mission(heroes6, mission6))
+print(check_mission(heroes7, mission7))
