@@ -38,7 +38,7 @@ heroes8 = (("Добрыня Н.", (1, 2, 3, 4)), ("Илья М.", (1, 2)), ("А�
 mission8 = (1, 2, 3, 4)
 
 # test Ok
-# print(check_mission(heroes, mission))
+print(check_mission(heroes, mission))
 print(check_mission(heroes2, mission2))
 print(check_mission(heroes3, mission3))
 print(check_mission(heroes4, mission4))
