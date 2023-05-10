@@ -6,5 +6,5 @@
 3
 <img width="1853" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/c73e4aaa-64b5-4c71-a9ad-05803ec8dd1e">
 <img width="1872" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/2ea60c9f-6691-4f1b-9a45-58e7766091fd">
-
+4
 <img width="1880" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/4a51329c-cf2d-4ada-9b45-362ccb068250">
