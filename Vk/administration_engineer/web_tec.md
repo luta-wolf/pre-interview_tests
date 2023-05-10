@@ -41,4 +41,4 @@
 21
 <img width="1788" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/53f806a4-cdc9-4489-8ca9-09b231ed3f56">
 22
-<img width="1796" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/80a9c592-4357-4895-98c2-f78ce3a086fd">
+![Uploading image.png…]()
