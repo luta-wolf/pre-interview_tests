@@ -17,6 +17,7 @@
 <img width="1276" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/899cfacb-86b1-44b0-8d86-4f0e16405ea8">
 9
 <img width="1253" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/2371c04a-d732-408f-9d7a-6dfed7a98fd0">
+<img width="1419" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/0cf8fe0c-ebd1-43c1-93b4-0a0c2944ea6c">
 10
 <img width="1241" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/5ba15db8-003e-45dc-8390-7b842d6c9b7a">
 11
