@@ -40,3 +40,23 @@
 <img width="1241" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/ae006b5d-4264-43c7-be79-104f2a74687e">
 20
 <img width="1258" alt="image" src="https://github.com/luta-wolf/pre-interview_tests/assets/58044383/d8a12d45-1bf1-47aa-8b7b-ec6d01ee6b3b">
+
+![test1](image/python/sbt_python1.jpg)
+![test2](image/python/sbt_python1.jpg)
+![test3](image/python/sbt_python1.jpg)
+![test4](image/python/sbt_python1.jpg)
+![test5](image/python/sbt_python1.jpg)
+![test6](image/python/sbt_python1.jpg)
+![test7](image/python/sbt_python1.jpg)
+![test8](image/python/sbt_python1.jpg)
+![test9](image/python/sbt_python1.jpg)
+![test10](image/python/sbt_python1.jpg)
+![test11](image/python/sbt_python1.jpg)
+![test12](image/python/sbt_python1.jpg)
+![test13](image/python/sbt_python1.jpg)
+![test14](image/python/sbt_python1.jpg)
+![test15](image/python/sbt_python1.jpg)
+![test16](image/python/sbt_python1.jpg)
+![test17](image/python/sbt_python1.jpg)
+![test18](image/python/sbt_python1.jpg)
+![test19](image/python/sbt_python1.jpg)
